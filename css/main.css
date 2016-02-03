@@ -1,0 +1,91 @@
+header{
+ 	background-color: rgb(252, 206, 9);/*mostaza*/
+ 	height: 700px;
+ 	background-size: cover;
+ 	color:white;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+.boton-Sumate{
+	margin-top: 50px;
+	background-color: #FCB739;/*mango*/
+	padding: 15px 25px;
+	position: fixed;
+	z-index: 1;
+	text-transform: uppercase;
+}
+.boton-Sumate:hover{
+	background-color: black;
+}
+.logo{
+	width: 100%;
+	margin-top: 50px;
+}
+nav ul{
+	list-style-type: none;
+	padding-top: 30px;
+	text-transform: uppercase;
+	white-space: nowrap;
+}
+nav li{
+	position: relative;
+	float: left;
+}
+nav a{
+	text-decoration: none;
+	padding: 10px 20px;
+}
+nav li:hover a{
+	background-color: black;
+}
+.pdt-200{
+	padding-top: 200px;
+}
+section{
+	background-color: rgb(234, 234, 232);/*grey*/
+	padding-top: 70px;
+}
+.cuadro-blanco{
+	width: 100%;
+	height: 520px;
+	background-color: white;
+	margin: 14px 0px;
+}
+div.cuadro-blanco img{
+	padding-top: 20px;
+}
+div.cuadro-blanco h1, div.cuadro-blanco p{
+	text-align: left;
+}
+div.cuadro-blanco h1{
+	color: #868683;/*plomo oscuro*/
+	padding: 20px 10px;
+}
+div.cuadro-blanco p{
+	color: #CCCCCC;/*plomo claro*/
+	padding: 0px 20px;
+}
+.boton-readmore{
+	background-color: rgb(252, 206, 9);/*mostaza*/
+	padding: 10px 20px;
+}
+.boton-readmore:hover{
+	background-color: black;
+}
+footer{
+	padding-top: 20px;
+	padding-bottom: 40px;
+	background-color: #262624;
+	color: white;
+}
+.text-left{
+	text-align: left;
+}
+.skypeicon{
+	width: 16px;
+}
+footer span{
+	color: DeepSkyBlue;
+}
